@@ -1,12 +1,19 @@
 {
     "heading": [
-        "Hey you should join the fucking iGEM team",
-        "Check this iGEM shit out, it's a fucking great opportunity"
+        "Hey, you should join the fucking iGEM team.",
+        "Don't be a dipshit and apply for this fucking amazing summer job.",
+        "Do you want to have fun and learn a shit ton of stuff? Then apply for the fucking team!",
+        "Are you thinking about applying for this iGEM shit? You should've fucking done it already.",
+        "If you get in to this team, you won't regret it. I fucking swear it.",
+        "Join the iGEM team and you'll have the best fucking summer ever.",
+        "Check this iGEM shit out, it's a fucking great opportunity."
     ],
 
     "response": [
-        "No that sounds fucking lame",
-        "No I don't know shit about anything"
+        "No, that sounds fucking lame.",
+        "No, don't be so fucking rude.",
+        "No I don't know shit about anything",
+        "No, fuck you."
     ],
 
     "template": [
@@ -17,12 +24,16 @@
     "field": [
         "synthetic biology",
         "mathematics",
+        "bioinformatics",
         "coding",
+        "gene technology",
         "chemistry",
+        "biotechnology",
         "bionics",
+        "molecular biosciences",
         "biochemistry",
-        "system science",
-        "process technology",
+        "systems science",
+        "bioprocess technology",
         "design",
         "statistics"
     ]
