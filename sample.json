@@ -10,8 +10,8 @@
     ],
 
     "template": [
-        "Do you know fucking anything about @field or @otherfield",
-        "Are you at all fucking interested in @field or @otherfield"
+        "Do you know fucking anything about @field or @field?",
+        "Are you at all fucking interested in @field or @field?"
     ],
 
     "field": [
@@ -19,10 +19,7 @@
         "mathematics",
         "coding",
         "chemistry",
-        "bionics"
-    ],
-
-    "otherfield": [
+        "bionics",
         "biochemistry",
         "system science",
         "process technology",
